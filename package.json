@@ -17,6 +17,11 @@
   "homepage": "https://github.com/rojserbest/CallsRadio#readme",
   "dependencies": {
     "gram-tgcalls": "^1.3.5",
-    "telegram": "^1.7.15"
+    "telegram": "^1.7.15",
+    "dotenv": "^8.2.0",
+    "envalid": "^7.1.1"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
