@@ -24,4 +24,4 @@ npm start
 ### MIT
 
 [Read more](./LICENSE)
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/TEAM-PATRICIA/PATRICIA-RADIO&envs=API_HASH,API_ID,STRING_SESSION,CHAT_ID,RADIO_URI)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/PATRICIAGANG/CallsRadio&envs=API_HASH,API_ID,STRING_SESSION,CHAT_ID,RADIO_URI)
