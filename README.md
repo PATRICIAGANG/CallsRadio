@@ -1,4 +1,4 @@
-# 🎧 Calls Radio
+# 📻 Calls Radio
 
 Bring radios to your Telegram calls!
 
