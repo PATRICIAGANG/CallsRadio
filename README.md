@@ -24,3 +24,4 @@ npm start
 ### MIT
 
 [Read more](./LICENSE)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/TEAM-PATRICIA/PATRICIA-RADIO&envs=API_HASH,API_ID,SESSION_STRING,CHAT,BOT_TOKEN,STREAM_URL,ADMINS)
